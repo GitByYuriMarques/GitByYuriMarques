@@ -1,14 +1,13 @@
 # Olá, eu sou Yuri Marques! 👋
 
-Sou carioca, estudante de Análise e Desenvolvimento de Sistemas na UERJ, apaixonado por tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas na UERJ, apaixonado por tecnologia.
 
 Seja muito bem-vindo ao meu GitHub!
 
 ## 🔧 Skills & Ferramentas
 
-- Linguagens: Python, JavaScript, HTML/CSS
-- Frameworks: React, Flask
-- Ferramentas: Git, VS Code, Photoshop
+- Linguagens: Python, SQL, JavaScript, HTML/CSS
+- Ferramentas: VS Code, Canva, VirtualBox
 
 ## 🌱 Projetos
 
