@@ -1,6 +1,7 @@
 # Olá, eu sou Yuri Marques! 👋
 
 Sou carioca, estudante de Análise e Desenvolvimento de Sistemas na UERJ, apaixonado por tecnologia.
+
 Seja muito bem-vindo ao meu GitHub!
 
 ## 🔧 Skills & Ferramentas
